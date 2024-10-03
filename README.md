@@ -1,25 +1,74 @@
 <h1 align="center">Hi 👋, I'm Divya Vasant Satpute</h1>
-<h3 align="center">A passionate devops engineer from India</h3>
+### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyasatpute&label=Profile%20views&color=0e75b6&style=flat" alt="divyasatpute" /> </p>
+<!--
+**divyasatpute/divyasatpute** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyasatpute" alt="divyasatpute" /></a> </p>
+I am [Divya](https://www.linkedin.com/in/divya-satpute-68666a300/), 🌟 DevOps Enthusiast | Cloud Practitioner | Microservices & Automation Advocate
 
-- 🌱 I’m currently learning **frameworks , devops tools**
+I am passionate about solving complex problems through innovative DevOps practices and cloud-native solutions. With a solid background in deploying scalable, automated systems, I specialize in CI/CD pipelines, Kubernetes, AWS Cloud, and containerization. My work is focused on bridging the gap between development and operations, enabling faster, more reliable delivery of software and infrastructure. 🎯
 
-- 📫 How to reach me **divyasatpute822@gmail.com**
+I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/divyasatpute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="divyasatpute" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/@divyasatpute" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@divyasatpute" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_divya_satpute_1122?igsh=YmVlMmRtbWJ3cjJz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@divya_satpute_1122_" height="30" width="40" /></a>
+
+<p float="left">
+  <a href="https://python.org/" target="_blank" >
+    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
+  </a>
+  
+  <a href="https://www.djangoproject.com/" target="_blank" >
+    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
+  </a>
+  
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+  </a>
+  <a href="https://grpc.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
+  </a>
+  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+  </a>
+ </p>
+  
+### DevOps
+  
+ <p float="left">
+  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
+  </a> 
+  <a href="https://aws.amazon.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+  </a>
+ </p>
+  
+### Databases and Monitoring
+  
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  </a>
+  <a href="https://www.influxdata.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
+  </a>
+    <a href="https://www.postgresql.org" target="_blank" >
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
+  </a>
+  </a>
+    <a href="https://www.mongodb.com/" target="_blank" >
+    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
+  </a>
+  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasatpute&show_icons=true&locale=en&layout=compact" alt="divyasatpute" /></p>
+### 📫 How to reach me?
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyasatpute&show_icons=true&locale=en" alt="divyasatpute" /></p>
+ - Visit my [Website](https://www.trainwithshubham.com) 🌐
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/divya-satpute-68666a300/) 👨🏻‍💻
+ - Follow me on [Instagram](https://www.instagram.com/_divya_satpute_1122?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) ✨
+ - Shoot Me an [Email](mailto:divyasatpute1122@gmail.com) 💌>
 
