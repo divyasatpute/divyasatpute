@@ -10,14 +10,14 @@
 
 - 📝 I regularly write articles on [https://learnwithdivya.hashnode.dev/](https://learnwithdivya.hashnode.dev/)
 
-- 📫 How to reach me **teacode1122@gmail.com**
+- 📫 How to reach me **teacode1122@gmail.com** **divyasatpute822@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Da6U-CyGn20l1X5reorKRsnxaS7K9WIQ/view?usp=drive_link](https://drive.google.com/file/d/1Da6U-CyGn20l1X5reorKRsnxaS7K9WIQ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/divya-satpute?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divya-satpute/" height="30" width="40" /></a>
-<a href="https://instagram.com/divya_satpute_1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divya_satpute_1122" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_divya_satpute_1122?igsh=YmVlMmRtbWJ3cjJz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="divya_satpute_1122" height="30" width="40" /></a>
 <a href="https://hashnode.com/@divya1122" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@divya1122" height="30" width="40" /></a>
 <a href="https://youtube.com/@teacode-1122?si=Zedl9euVntwRjOiR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@teacode-1122" height="30" width="40" /></a>
 </p>
