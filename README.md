@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://learnwithdivya.hashnode.dev/](https://learnwithdivya.hashnode.dev/)
 
-- 📫 How to reach me **teacode1122@gmail.com** **divyasatpute822@gmail.com**
+- 📫 How to reach me **teacode1122@gmail.com** or **divyasatpute822@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Da6U-CyGn20l1X5reorKRsnxaS7K9WIQ/view?usp=drive_link](https://drive.google.com/file/d/1Da6U-CyGn20l1X5reorKRsnxaS7K9WIQ/view?usp=drive_link)
 
