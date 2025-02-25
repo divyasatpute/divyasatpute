@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **teacode1122@gmail.com** or **divyasatpute822@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Da6U-CyGn20l1X5reorKRsnxaS7K9WIQ/view?usp=drive_link](https://drive.google.com/file/d/1Da6U-CyGn20l1X5reorKRsnxaS7K9WIQ/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/drive/folders/1v9qkZ4QGdhqAk-p7DS08RZnODZlP1XzV?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
