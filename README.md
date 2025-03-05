@@ -31,3 +31,25 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyasatpute&show_icons=true&locale=en&layout=compact" alt="divyasatpute" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyasatpute&" alt="divyasatpute" /></p>
+
+ # Connect With Me
+  
+Let’s build an amazing DevOps & Cloud community together! 💡👩‍💻
+### **🔗 Connect with Me Everywhere! 🌍**  
+
+📌 **LinkedIn:** [Divya Satpute](https://www.linkedin.com/in/divya-satpute-68666a300/)  
+
+📌 **Instagram (DevOps Content):** [@teacode1122](https://www.instagram.com/teacode1122/) 
+
+📌 **GitHub:** https://github.com/divyasatpute/vprofile-awsliftshift-project 
+
+📌 **Hashnode (Technical Blogs):** https://learnwithdivya.hashnode.dev/
+
+📌 **TeaCode Website:** https://teacode1122.vercel.app/
+
+📌 **YouTube (Teacode - DevOps Learning):** https://www.youtube.com/@Teacode-1122
+
+💬 Let’s connect, collaborate, and grow together in the **DevOps & Cloud** world! 🚀✨  
+
+
+
